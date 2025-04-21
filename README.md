@@ -1,0 +1,1 @@
+# Vibro-Pattern-Privacy-Policy

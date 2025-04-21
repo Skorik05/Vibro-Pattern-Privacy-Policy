@@ -1,32 +1,32 @@
-Privacy Policy for Vibro Pattern
+# Privacy Policy for Vibro Pattern
 
-Effective Date: [Дата]
+**Effective Date:** April 21, 2025
 
-Vibro Pattern ("we", "our", "us") values your privacy. This Privacy Policy explains how we handle user data in our mobile application available on the Google Play Store, which is designed to allow users to test vibrations on their devices and create vibration patterns.
+Vibro Pattern уважает вашу конфиденциальность. Эта Политика конфиденциальности объясняет, как приложение обрабатывает данные пользователей. Vibro Pattern доступно в Google Play Store и предназначено для тестирования вибраций на устройствах и создания вибрационных паттернов.
 
-1. Information We Do Not Collect
+## 1. Информация, которую не собирает приложение
 
-We do not collect, store, or process any personal data from users. Our application does not require any registration or request access to any personal information, such as your name, email address, location, or device data.
+Приложение не собирает, не хранит и не обрабатывает персональные данные пользователей. Оно не требует регистрации и не запрашивает доступ к личной информации, такой как ваше имя, адрес электронной почты, местоположение или данные устройства.
 
-2. Device Data
+## 2. Данные устройства
 
-Our application may gather technical information about your device, such as model, operating system version, and other necessary device characteristics, to ensure the correct functioning of the vibration testing feature. However, this data is not used for user identification and is not shared with third parties.
+Приложение может собирать техническую информацию о вашем устройстве, такую как модель, версия операционной системы и другие характеристики устройства, чтобы обеспечить корректную работу функции тестирования вибрации. Эти данные не используются для идентификации пользователей и не передаются третьим лицам.
 
-3. How We Use Your Data
+## 3. Использование данных
 
-We do not use any data collected from users. Our application is designed to operate entirely offline and does not transmit data to any external servers or third parties.
+Приложение не использует и не передает собранные данные. Оно работает полностью в оффлайн-режиме и не передает данные на серверы или сторонние сервисы.
 
-4. No Internet Access
+## 4. Нет доступа в интернет
 
-Our application does not require or utilize an internet connection, ensuring that no user data is transmitted over the internet.
+Приложение не требует подключения к интернету, что гарантирует отсутствие передачи данных пользователей.
 
-5. Contact Information
+## 5. Контактная информация
 
-If you have any questions or concerns about our Privacy Policy, you can contact us at:
+Если у вас есть вопросы или замечания по поводу этой Политики конфиденциальности, пожалуйста, свяжитесь с нами по следующему адресу:  
 Email: ssskorodumov5@gmail.com
 
-6. Changes to This Privacy Policy
+## 6. Изменения в Политике конфиденциальности
 
-We may update this Privacy Policy from time to time. Any changes will be reflected in this document with an updated effective date. Please review this Privacy Policy periodically for any updates.
+Мы можем обновлять эту Политику конфиденциальности время от времени. Все изменения будут отражены в этом документе с обновленной датой вступления в силу. Рекомендуется периодически проверять этот документ на предмет изменений.
 
-By using our application, you agree to the terms of this Privacy Policy.
+Используя приложение, вы соглашаетесь с условиями этой Политики конфиденциальности.
